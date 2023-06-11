@@ -25,8 +25,8 @@
 <a href="https://velog.io/@yeyun_ny"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a><a href="[https://velog.io/@yeyun_ny](https://www.linkedin.com/in/ye-yun-sim-74b631235/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a><a><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   
 -----
-![yeyunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeyunny&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeyunny&layout=compact)](https://github.com/yeyunny/github-readme-stats)
+![jyh1026's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyh1026&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyh1026&layout=compact)](https://github.com/jyh1026/github-readme-stats)
 </div>
 <!--
 **yeyunny/yeyunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
