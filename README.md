@@ -22,8 +22,10 @@
  <br>
 
 ### 💙 Contact Me
-<a href="https://velog.io/@yeyun_ny"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a><a href="[https://velog.io/@yeyun_ny](https://www.linkedin.com/in/ye-yun-sim-74b631235/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a><a><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://velog.io/@jyh1026"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
   
+<!-- <a href="[https://velog.io/@yeyun_ny](https://www.linkedin.com/in/ye-yun-sim-74b631235/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a><a><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+   -->
 -----
 ![jyh1026's GitHub stats](https://github-readme-stats.vercel.app/api?username=2610&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyh2610&layout=compact)](https://github.com/jyh2610/github-readme-stats)
